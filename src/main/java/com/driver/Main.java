@@ -5,7 +5,7 @@ public class Main {
         public int product(int x, int y) {
             return (x*y);
         };
-        //dummy new lines
+        //dummy new lines dummy
 
         public int product(int x, int y, int z) {
             return (x*y*z);
